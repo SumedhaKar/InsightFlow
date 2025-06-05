@@ -1,6 +1,6 @@
 
 
- 📊 InsightFlow
+ # 📊 InsightFlow
 
 **InsightFlow** is an AI-powered mobile application built with Flutter that enables users to upload datasets and receive intelligent insights and anomaly detection reports powered by Google’s Gemini AI. The app offers an intuitive, modern interface and aims to democratize data-driven decision-making for individuals and small businesses.
 
